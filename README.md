@@ -20,6 +20,11 @@ Input
 
 ![beach](https://user-images.githubusercontent.com/68719785/127559526-8d1d6b48-78e4-4a3f-a6ef-5fe4443fb73e.png)
 
+REF: https://all-free-download.com/free-photos/beach-pictures.html 
+
+
+
+
 Output
 
 with k = 3
